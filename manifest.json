@@ -1,0 +1,18 @@
+{
+    "guid":  "eb5d7894-8eef-4b36-aa6f-5d124e828ce1",
+    "name":  "Template",
+    "description":  "This is a longer description that can span more than one\nline and include details about your plugin.",
+    "overview":  "Short description about your plugin",
+    "owner":  "jellyfin",
+    "category":  "General",
+    "versions":  [
+                     {
+                         "version":  "1.0.0.0",
+                         "changelog":  "Test release for Jellyfin manifest pipeline.",
+                         "targetAbi":  "10.9.0.0",
+                         "sourceUrl":  "https://calen-ray.github.io/Jelly-cleaner-plugin/releases/1.0.0.0/Jellyfin.Plugin.Template-1.0.0.0.zip",
+                         "checksum":  "c78968100d3f66aa283d789be183ac05",
+                         "timestamp":  "2026-04-27T21:46:47Z"
+                     }
+                 ]
+}
