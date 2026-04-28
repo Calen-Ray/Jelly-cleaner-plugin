@@ -5,5 +5,14 @@
   "overview": "Short description about your plugin",
   "owner": "jellyfin",
   "category": "General",
-  "versions": []
+  "versions": [
+    {
+      "version": "1.0.0.3",
+      "changelog": "Release after fixing manifest generation to include the current release asset.",
+      "targetAbi": "10.9.0.0",
+      "sourceUrl": "https://calen-ray.github.io/Jelly-cleaner-plugin/releases/1.0.0.3/Jellyfin.Plugin.Template-1.0.0.3.zip",
+      "checksum": "5ba089dbd1125563c078fd29dacc3083",
+      "timestamp": "2026-04-28T05:14:25Z"
+    }
+  ]
 }
