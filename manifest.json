@@ -8,12 +8,12 @@
   "category": "General",
   "versions": [
     {
-      "version": "1.0.0.7",
-      "changelog": "Fix media stream lookup against the Jellyfin runtime API and expose a dashboard toolbar shortcut for the navigator.",
+      "version": "1.0.0.8",
+      "changelog": "Aligned the plugin against the local Jellyfin 10.12 runtime, fixed the navigator scan path, and verified the dashboard can load live item data.",
       "targetAbi": "10.9.0.0",
-      "sourceUrl": "https://calen-ray.github.io/Jelly-cleaner-plugin/releases/1.0.0.7/Jellyfin.Plugin.Template-1.0.0.7.zip",
-      "checksum": "93208d6b35fa25834250289f8c8b4ea4",
-      "timestamp": "2026-04-28T16:00:38Z"
+      "sourceUrl": "https://calen-ray.github.io/Jelly-cleaner-plugin/releases/1.0.0.8/Jellyfin.Plugin.Template-1.0.0.8.zip",
+      "checksum": "1d8c5416241aff89357e2df532ea7fae",
+      "timestamp": "2026-04-28T16:59:40Z"
     }
   ]
 }
