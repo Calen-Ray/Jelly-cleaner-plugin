@@ -1,3 +1,4 @@
+[
 {
   "guid": "151b2fdc-c5f8-471c-a1fb-568d122a7284",
   "name": "Jelly-cleaner",
@@ -8,11 +9,12 @@
   "versions": [
     {
       "version": "1.0.0.5",
-      "changelog": "Fresh plugin GUID to avoid Jellyfin identity caching collisions.",
+      "changelog": "",
       "targetAbi": "10.9.0.0",
       "sourceUrl": "https://calen-ray.github.io/Jelly-cleaner-plugin/releases/1.0.0.5/Jellyfin.Plugin.Template-1.0.0.5.zip",
-      "checksum": "e772df80dc021f939daaea5ff8f77645",
-      "timestamp": "2026-04-28T05:37:49Z"
+      "checksum": "f124059113c814e3f055cb8797592f21",
+      "timestamp": "2026-04-28T05:42:44Z"
     }
   ]
 }
+]
