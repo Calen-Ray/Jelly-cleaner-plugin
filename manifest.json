@@ -1,5 +1,5 @@
 {
-  "guid": "eb5d7894-8eef-4b36-aa6f-5d124e828ce1",
+  "guid": "151b2fdc-c5f8-471c-a1fb-568d122a7284",
   "name": "Jelly-cleaner",
   "description": "Jelly-cleaner indexes the largest items in your Jellyfin libraries, highlights\nsubtitle tracks that match your unwanted language and pattern rules, and helps\nyou navigate toward the biggest storage wins.",
   "overview": "Browse large Jellyfin items, surface subtitle savings, and navigate candidate cleanup actions.",
@@ -7,12 +7,12 @@
   "category": "General",
   "versions": [
     {
-      "version": "1.0.0.4",
-      "changelog": "Release with library navigation, item actions, and updated manifest metadata.",
+      "version": "1.0.0.5",
+      "changelog": "Fresh plugin GUID to avoid Jellyfin identity caching collisions.",
       "targetAbi": "10.9.0.0",
-      "sourceUrl": "https://calen-ray.github.io/Jelly-cleaner-plugin/releases/1.0.0.4/Jellyfin.Plugin.Template-1.0.0.4.zip",
-      "checksum": "566ea8b0c67c5d6ea48dae0fa118ee36",
-      "timestamp": "2026-04-28T05:29:56Z"
+      "sourceUrl": "https://calen-ray.github.io/Jelly-cleaner-plugin/releases/1.0.0.5/Jellyfin.Plugin.Template-1.0.0.5.zip",
+      "checksum": "e772df80dc021f939daaea5ff8f77645",
+      "timestamp": "2026-04-28T05:37:49Z"
     }
   ]
 }
