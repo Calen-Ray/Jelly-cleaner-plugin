@@ -8,12 +8,12 @@
   "category": "General",
   "versions": [
     {
-      "version": "1.0.0.6",
-      "changelog": "Cleanup template leftovers, add post-scan refresh, and harden the release/test pipeline.",
+      "version": "1.0.0.7",
+      "changelog": "Fix media stream lookup against the Jellyfin runtime API and expose a dashboard toolbar shortcut for the navigator.",
       "targetAbi": "10.9.0.0",
-      "sourceUrl": "https://calen-ray.github.io/Jelly-cleaner-plugin/releases/1.0.0.6/Jellyfin.Plugin.Template-1.0.0.6.zip",
-      "checksum": "14e5fe2397981958b095368f43dd53eb",
-      "timestamp": "2026-04-28T06:03:17Z"
+      "sourceUrl": "https://calen-ray.github.io/Jelly-cleaner-plugin/releases/1.0.0.7/Jellyfin.Plugin.Template-1.0.0.7.zip",
+      "checksum": "93208d6b35fa25834250289f8c8b4ea4",
+      "timestamp": "2026-04-28T16:00:38Z"
     }
   ]
 }
