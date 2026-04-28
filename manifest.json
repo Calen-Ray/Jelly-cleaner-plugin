@@ -8,12 +8,12 @@
   "category": "General",
   "versions": [
     {
-      "version": "1.0.0.8",
-      "changelog": "Aligned the plugin against the local Jellyfin 10.12 runtime, fixed the navigator scan path, and verified the dashboard can load live item data.",
+      "version": "1.0.0.9",
+      "changelog": "Moved navigator ownership into DI, tightened manifest version propagation, and added a direct Jellyfin manifest validator tool.",
       "targetAbi": "10.9.0.0",
-      "sourceUrl": "https://calen-ray.github.io/Jelly-cleaner-plugin/releases/1.0.0.8/Jellyfin.Plugin.Template-1.0.0.8.zip",
-      "checksum": "1d8c5416241aff89357e2df532ea7fae",
-      "timestamp": "2026-04-28T16:59:40Z"
+      "sourceUrl": "https://calen-ray.github.io/Jelly-cleaner-plugin/releases/1.0.0.9/Jellyfin.Plugin.Template-1.0.0.9.zip",
+      "checksum": "5c2984e1d7eda802501b12121f762048",
+      "timestamp": "2026-04-28T19:51:21Z"
     }
   ]
 }
