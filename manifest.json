@@ -8,12 +8,12 @@
   "category": "General",
   "versions": [
     {
-      "version": "1.0.0.5",
-      "changelog": "",
+      "version": "1.0.0.6",
+      "changelog": "Cleanup template leftovers, add post-scan refresh, and harden the release/test pipeline.",
       "targetAbi": "10.9.0.0",
-      "sourceUrl": "https://calen-ray.github.io/Jelly-cleaner-plugin/releases/1.0.0.5/Jellyfin.Plugin.Template-1.0.0.5.zip",
-      "checksum": "f124059113c814e3f055cb8797592f21",
-      "timestamp": "2026-04-28T05:42:44Z"
+      "sourceUrl": "https://calen-ray.github.io/Jelly-cleaner-plugin/releases/1.0.0.6/Jellyfin.Plugin.Template-1.0.0.6.zip",
+      "checksum": "14e5fe2397981958b095368f43dd53eb",
+      "timestamp": "2026-04-28T06:03:17Z"
     }
   ]
 }
