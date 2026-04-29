@@ -8,12 +8,12 @@
   "category": "General",
   "versions": [
     {
-      "version": "1.0.0.9",
-      "changelog": "Moved navigator ownership into DI, tightened manifest version propagation, and added a direct Jellyfin manifest validator tool.",
+      "version": "1.0.0.10",
+      "changelog": "## Changes\n\n- Plugin now appears in the Jellyfin dashboard left nav (sets `EnableInMainMenu`, `DisplayName`, and a Material Symbols `MenuIcon` on `PluginPageInfo`).\n- Configuration page rewritten:\n  - Theme-aware styling via Jellyfin CSS variables instead of a hard-coded dark palette.\n  - `role=\"status\"` / `aria-live` on the status indicator and detail panel.\n  - Keyboard-activatable table rows (Tab + Enter/Space).\n  - Distinct **Rescan** vs **Reload snapshot** affordances with tooltips.\n  - Explicit \"Run first scan\" CTA in the empty state instead of a silent auto-scan on first load.\n  - `viewshow` is now the primary load trigger so the page reloads when navigated back to.\n  - Save and Re-check item flows have proper error paths.",
       "targetAbi": "10.9.0.0",
-      "sourceUrl": "https://calen-ray.github.io/Jelly-cleaner-plugin/releases/1.0.0.9/Jellyfin.Plugin.Template-1.0.0.9.zip",
-      "checksum": "5c2984e1d7eda802501b12121f762048",
-      "timestamp": "2026-04-28T19:51:21Z"
+      "sourceUrl": "https://calen-ray.github.io/Jelly-cleaner-plugin/releases/1.0.0.10/Jellyfin.Plugin.Template-1.0.0.10.zip",
+      "checksum": "ee2661fa675f3fc87f1bb81b0bc886cf",
+      "timestamp": "2026-04-29T00:07:46Z"
     }
   ]
 }
